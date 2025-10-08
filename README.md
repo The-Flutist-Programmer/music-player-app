@@ -14,6 +14,6 @@
 5. Right-click on the `index.html` file and select "Open with Live Server".
    1. If you don't have **_Live Server_** Installed, just go to the extentions tab on the left side, look for it and Install
 6. Your default web browser will open and display the website.
-7. And that's it! You have successfully created and run The Advanced Notes App!!
+7. And that's it! You have successfully created and run The Music Player App!!
 
 See you in the next project. Happy coding 🙂!
